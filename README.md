@@ -1,3 +1,3 @@
 # Kakao clone github
 
-Lorem ipsum blah blah
+To see how it shows changes
